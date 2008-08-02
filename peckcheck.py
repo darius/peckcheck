@@ -24,7 +24,7 @@ function with one parameter, the size bound.  For example:
         import random
         return random.choice(['Sun','Mon','Tue','Wed','Thu','Fri','Sat'])
 
-Send bug reports to the author, Darius Bacon <darius@accesscom.com>.
+Send bug reports to the author, Darius Bacon <darius@wry.me>.
 
 See http://www.math.chalmers.se/~rjmh/QuickCheck/ for the original
 automatic specification-based testing tool.
